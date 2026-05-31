@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Farhan Jamil
 #### Current Townsend Harris High School Student
-Current Townsend Harris High School Student
 
-![Badge](https://img.shields.io/badge/Farhan_Jamil-16_years_old-pink)
+![Badge](https://img.shields.io/badge/Farhan_Jamil-18_years_old-pink)
 
 ## Languages and Tools
 
